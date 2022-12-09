@@ -21,7 +21,11 @@ public class Main {
 
 
         //Hacer doble bucle for/for
+<<<<<<< HEAD
 
+=======
+        String user = config[XPROD][CUSER];
+>>>>>>> dev
 
         //CLAVE: DESARROLLO
 
